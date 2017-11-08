@@ -1,0 +1,20 @@
+{
+    "name": "foo99/wave-dash-range",
+    "authors": [
+        {
+            "name": "foo99",
+            "email": "kouta_99@hotmail.co.jp"
+        }
+    ],
+    "description": "",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Foo99\\WaveDashRange\\" : "src/"
+        }
+    },
+    "license": "MIT"
+}
